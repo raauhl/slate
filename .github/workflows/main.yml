@@ -1,4 +1,4 @@
-name: Deploy
+name: Test-cf-wf
 
 on: workflow_dispatch
 
