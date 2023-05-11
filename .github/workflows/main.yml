@@ -39,5 +39,5 @@ jobs:
       with:
         apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         accountId: 33648b401d4b916685cff8b921647457
-        projectName: external-api-docs
+        projectName: slate
         directory: build
